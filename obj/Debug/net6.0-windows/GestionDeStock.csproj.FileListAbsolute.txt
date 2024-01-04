@@ -1,0 +1,126 @@
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC--main\bin\Debug\net6.0-windows\GestionDeStock.exe
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC--main\bin\Debug\net6.0-windows\GestionDeStock.deps.json
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC--main\bin\Debug\net6.0-windows\GestionDeStock.runtimeconfig.json
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC--main\bin\Debug\net6.0-windows\GestionDeStock.dll
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC--main\bin\Debug\net6.0-windows\GestionDeStock.pdb
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC--main\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC--main\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC--main\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC--main\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC--main\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC--main\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC--main\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC--main\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC--main\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC--main\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC--main\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libsqlite3.so
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC--main\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libsqlite3.dylib
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC--main\bin\Debug\net6.0-windows\runtimes\win7-x64\native\sqlite3.dll
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC--main\bin\Debug\net6.0-windows\runtimes\win7-x86\native\sqlite3.dll
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC--main\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC--main\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC--main\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC--main\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC--main\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC--main\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC--main\obj\Debug\net6.0-windows\GestionDeStock.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC--main\obj\Debug\net6.0-windows\FirstApp.Form1.resources
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC--main\obj\Debug\net6.0-windows\GestionDeStock.GestionDeCategorie.resources
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC--main\obj\Debug\net6.0-windows\GestionDeStock.ManageProducts.resources
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC--main\obj\Debug\net6.0-windows\FirstApp.ManageUsers.resources
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC--main\obj\Debug\net6.0-windows\GestionDeStock.Properties.Resources.resources
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC--main\obj\Debug\net6.0-windows\GestionDeStock.csproj.GenerateResource.cache
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC--main\obj\Debug\net6.0-windows\GestionDeStock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC--main\obj\Debug\net6.0-windows\GestionDeStock.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC--main\obj\Debug\net6.0-windows\GestionDeStock.AssemblyInfo.cs
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC--main\obj\Debug\net6.0-windows\GestionDeStock.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC--main\obj\Debug\net6.0-windows\GestionDeStock.csproj.CopyComplete
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC--main\obj\Debug\net6.0-windows\GestionDeStock.dll
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC--main\obj\Debug\net6.0-windows\refint\GestionDeStock.dll
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC--main\obj\Debug\net6.0-windows\GestionDeStock.pdb
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC--main\obj\Debug\net6.0-windows\GestionDeStock.genruntimeconfig.cache
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC--main\obj\Debug\net6.0-windows\ref\GestionDeStock.dll
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC\bin\Debug\net6.0-windows\GestionDeStock.exe
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC\bin\Debug\net6.0-windows\GestionDeStock.deps.json
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC\bin\Debug\net6.0-windows\GestionDeStock.runtimeconfig.json
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC\bin\Debug\net6.0-windows\GestionDeStock.dll
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC\bin\Debug\net6.0-windows\GestionDeStock.pdb
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libsqlite3.so
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libsqlite3.dylib
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC\bin\Debug\net6.0-windows\runtimes\win7-x64\native\sqlite3.dll
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC\bin\Debug\net6.0-windows\runtimes\win7-x86\native\sqlite3.dll
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC\obj\Debug\net6.0-windows\GestionDeStock.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC\obj\Debug\net6.0-windows\FirstApp.Form1.resources
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC\obj\Debug\net6.0-windows\GestionDeStock.GestionDeCategorie.resources
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC\obj\Debug\net6.0-windows\GestionDeStock.ManageProducts.resources
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC\obj\Debug\net6.0-windows\FirstApp.ManageUsers.resources
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC\obj\Debug\net6.0-windows\GestionDeStock.Properties.Resources.resources
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC\obj\Debug\net6.0-windows\GestionDeStock.csproj.GenerateResource.cache
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC\obj\Debug\net6.0-windows\GestionDeStock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC\obj\Debug\net6.0-windows\GestionDeStock.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC\obj\Debug\net6.0-windows\GestionDeStock.AssemblyInfo.cs
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC\obj\Debug\net6.0-windows\GestionDeStock.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC\obj\Debug\net6.0-windows\GestionDeStock.csproj.CopyComplete
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC\obj\Debug\net6.0-windows\GestionDeStock.dll
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC\obj\Debug\net6.0-windows\refint\GestionDeStock.dll
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC\obj\Debug\net6.0-windows\GestionDeStock.pdb
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC\obj\Debug\net6.0-windows\GestionDeStock.genruntimeconfig.cache
+C:\Users\user\Desktop\StockManagementC--main (1)\StockManagementC\obj\Debug\net6.0-windows\ref\GestionDeStock.dll
+C:\Users\user\source\repos\StockManagementC\bin\Debug\net6.0-windows\GestionDeStock.exe
+C:\Users\user\source\repos\StockManagementC\bin\Debug\net6.0-windows\GestionDeStock.deps.json
+C:\Users\user\source\repos\StockManagementC\bin\Debug\net6.0-windows\GestionDeStock.runtimeconfig.json
+C:\Users\user\source\repos\StockManagementC\bin\Debug\net6.0-windows\GestionDeStock.dll
+C:\Users\user\source\repos\StockManagementC\bin\Debug\net6.0-windows\GestionDeStock.pdb
+C:\Users\user\source\repos\StockManagementC\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\user\source\repos\StockManagementC\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\user\source\repos\StockManagementC\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\user\source\repos\StockManagementC\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+C:\Users\user\source\repos\StockManagementC\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\user\source\repos\StockManagementC\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\user\source\repos\StockManagementC\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\user\source\repos\StockManagementC\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\user\source\repos\StockManagementC\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\user\source\repos\StockManagementC\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\user\source\repos\StockManagementC\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libsqlite3.so
+C:\Users\user\source\repos\StockManagementC\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libsqlite3.dylib
+C:\Users\user\source\repos\StockManagementC\bin\Debug\net6.0-windows\runtimes\win7-x64\native\sqlite3.dll
+C:\Users\user\source\repos\StockManagementC\bin\Debug\net6.0-windows\runtimes\win7-x86\native\sqlite3.dll
+C:\Users\user\source\repos\StockManagementC\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\user\source\repos\StockManagementC\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\user\source\repos\StockManagementC\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\user\source\repos\StockManagementC\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\user\source\repos\StockManagementC\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\source\repos\StockManagementC\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\source\repos\StockManagementC\obj\Debug\net6.0-windows\GestionDeStock.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\StockManagementC\obj\Debug\net6.0-windows\FirstApp.Form1.resources
+C:\Users\user\source\repos\StockManagementC\obj\Debug\net6.0-windows\GestionDeStock.GestionDeCategorie.resources
+C:\Users\user\source\repos\StockManagementC\obj\Debug\net6.0-windows\GestionDeStock.ManageProducts.resources
+C:\Users\user\source\repos\StockManagementC\obj\Debug\net6.0-windows\FirstApp.ManageUsers.resources
+C:\Users\user\source\repos\StockManagementC\obj\Debug\net6.0-windows\GestionDeStock.Properties.Resources.resources
+C:\Users\user\source\repos\StockManagementC\obj\Debug\net6.0-windows\GestionDeStock.csproj.GenerateResource.cache
+C:\Users\user\source\repos\StockManagementC\obj\Debug\net6.0-windows\GestionDeStock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\StockManagementC\obj\Debug\net6.0-windows\GestionDeStock.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\StockManagementC\obj\Debug\net6.0-windows\GestionDeStock.AssemblyInfo.cs
+C:\Users\user\source\repos\StockManagementC\obj\Debug\net6.0-windows\GestionDeStock.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\StockManagementC\obj\Debug\net6.0-windows\GestionDeStock.csproj.CopyComplete
+C:\Users\user\source\repos\StockManagementC\obj\Debug\net6.0-windows\GestionDeStock.dll
+C:\Users\user\source\repos\StockManagementC\obj\Debug\net6.0-windows\refint\GestionDeStock.dll
+C:\Users\user\source\repos\StockManagementC\obj\Debug\net6.0-windows\GestionDeStock.pdb
+C:\Users\user\source\repos\StockManagementC\obj\Debug\net6.0-windows\GestionDeStock.genruntimeconfig.cache
+C:\Users\user\source\repos\StockManagementC\obj\Debug\net6.0-windows\ref\GestionDeStock.dll
